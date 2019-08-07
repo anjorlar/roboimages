@@ -1,2 +1,2 @@
 
-## Fetching api with redux
+## Using redux in react to fetch api
